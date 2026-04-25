@@ -42,6 +42,8 @@ To create a safer, more connected urban environment where everyone can navigate 
    npm install
    ```
 
+Project Live URL : https://ais-pre-kwbb63srsoxwkalvymrsoq-684655793977.asia-southeast1.run.app/   
+
 ### Execution
 To start the development server:
 ```bash
