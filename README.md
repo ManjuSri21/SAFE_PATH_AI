@@ -44,6 +44,7 @@ To create a safer, more connected urban environment where everyone can navigate 
 
 Project Live URL : https://ais-pre-kwbb63srsoxwkalvymrsoq-684655793977.asia-southeast1.run.app/   
 Project demo URL : https://drive.google.com/file/d/10Vjr8M2deWl1vxrbjO-F9hlYJlyC3Hjr/view
+Project PPT : https://docs.google.com/presentation/d/1HBuWgJ_2_o1u4dhzz3BHXVU5O9OS6-0dLPJsWb_FyYg/edit?usp=sharing
 
 ### Execution
 To start the development server:
